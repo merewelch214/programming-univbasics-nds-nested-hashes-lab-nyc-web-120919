@@ -15,7 +15,7 @@ def assembled_aoh
     PAT_M,
     KATE_G,
     BRUCE_G
-    ].sort
+    ]
 end
 
 def literal_aoh
