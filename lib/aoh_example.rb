@@ -33,6 +33,14 @@ def literal_aoh
 end
 
 def aoh_lookup(aoh, row, key)
+  new_arr = [
+    DON_G,
+    JOELLE_VD,
+    PAT_M,
+    KATE_G,
+    BRUCE_G
+    ]    
+  return new_arr[row][key]
 end
 
 def aoh_update(aoh, row, key, new_value)
