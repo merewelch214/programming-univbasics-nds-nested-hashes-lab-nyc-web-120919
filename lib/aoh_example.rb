@@ -29,7 +29,6 @@ def literal_aoh
     KATE_G,
     BRUCE_G
     ]    
-    ]
   return new_arr
 end
 
